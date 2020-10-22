@@ -1,7 +1,7 @@
 
 ## <i> Project 2: Supervised Machine Learning </i>
 
-### **_by Sebastian Sbirna_**
+### **_by Sourav Dey_**
 
 ***
 
