@@ -1,6 +1,6 @@
 
 ## <i> Project 1: Data feature extraction and visualisations </i>
-### **_by Sebastian Sbirna_**
+### **_by Sourav Dey_**
 
 ***
 
