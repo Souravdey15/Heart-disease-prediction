@@ -1,7 +1,7 @@
 
 ## <i> Project 3: Unsupervised Machine Learning </i>
 
-### **_by Sebastian Sbirna_**
+### **_by Sourav Dey_**
 
 ***
 
